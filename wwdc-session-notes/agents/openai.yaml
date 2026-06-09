@@ -1,0 +1,4 @@
+interface:
+  display_name: "WWDC Session Notes"
+  short_description: "Fetch Apple Developer transcripts, code snippets, and resources into Markdown."
+  default_prompt: "Fetch the transcript, code snippets, and resources for this WWDC session link and write them as Markdown."
